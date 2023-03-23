@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:mvvm_viblo_flutter/model/movie.dart';
+import 'package:mvvm_viblo_flutter/models/movie.dart';
 import 'package:http/http.dart' as http;
 
 class WebService {

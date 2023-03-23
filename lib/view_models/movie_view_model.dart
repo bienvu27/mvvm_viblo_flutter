@@ -1,4 +1,4 @@
-import 'package:mvvm_viblo_flutter/model/movie.dart';
+import 'package:mvvm_viblo_flutter/models/movie.dart';
 
 class MovieViewModel {
   final Movie? movie;
